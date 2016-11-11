@@ -1,0 +1,175 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="//cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+    <!-- 新 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- 可选的Bootstrap主题文件（一般不用引入） -->
+    <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+    <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+    <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+<style>
+    input[type="file"] {
+        display: inline-block;
+    }
+
+    label {
+        padding: 10px;
+    }
+</style>
+<body>
+<center>
+    <h2>添加班级</h2>
+    <form id="form">
+        <label>
+            <span>班级名称：</span><input type="text" id="name"/>
+        </label><br/>
+        <label>
+            <span>班级信息：</span><textarea id="info"></textarea>
+        </label><br/>
+        <label>
+            <span>封面：</span><input type="file" id="cover">
+        </label><br/>
+        <label>
+            <span>宣传图：</span><input type="file" id="image">
+        </label><br/>
+        <label>
+            <span>视频：</span><input type="file" id="video">
+        </label><br/>
+        <button>上传</button>
+    </form>
+    <div class="container">
+        <div class="progress">
+            <div id="progress" class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100"
+                 style="width:0;">
+                <span class="sr-only" id="span_bar"></span>
+            </div>
+        </div>
+    </div>
+</center>
+<script>
+    var addClassUrl = "<?php echo U('Home/index/addClass');?>";//添加班级url
+    var cover_token = "<?php echo ($cover["token"]); ?>";
+    var image_token = "<?php echo ($image["token"]); ?>";
+    var video_token = "<?php echo ($video["token"]); ?>";
+    var cover_key, image_key, video_key;
+    var i = 0;
+
+    //异步上传方法
+    function upload(file, token) {
+        var fd = new FormData;
+        fd.append('file', file);
+        fd.append('token', token);
+        xhr = new XMLHttpRequest();
+        xhr.open('POST', 'http://up.qiniu.com', true);
+        xhr.onload = function (e) {
+            var txet = e.target.responseText;
+            var obj = jQuery.parseJSON(txet).key;
+            addUrl(obj);
+        };
+        xhr.upload.onprogress = function (e) {
+            $('#progress').css('width', 0 + "%");
+            if (e.lengthComputable) {
+                var p = parseInt(e.loaded * 100 / e.total);
+                $('#progress').css('width', p + "%");
+                $('#span_bar').html(p + '%');
+            }
+        };
+        xhr.send(fd);
+    }
+
+    //添加班级方法
+    function addClass(name, info, cover_key, image_key, video_key, origin) {
+        $.ajax({
+            type: "POST",
+            url: addClassUrl,
+            data: {
+                name: name,
+                info: info,
+                origin: origin,
+                cover_key: cover_key,
+                image_key: image_key,
+                video_key: video_key
+            },
+            dataType: "json",
+            success: function (res) {
+                alert("添加成功！");
+            }
+        });
+    }
+    /*
+     上传成功够提交进库
+     */
+    function addUrl(key) {
+        i++;
+        if (i == 1) {
+            cover_key = key;
+        } else if (i == 2) {
+            image_key = key;
+        } else if (i == 3) {
+            video_key = key;
+            addClass($("#name").val(), $("#info").val(), cover_key, image_key, video_key, "<?php echo ($video["origin"]); ?>");
+            alert("添加成功！");
+        }
+    }
+    //点击事件
+    $("#form").on('submit', function (e) {
+        e.preventDefault();
+        //上传文件
+        var cover = $("#cover")[0].files[0];
+        var image = $("#image")[0].files[0];
+        var video = $("#video")[0].files[0];
+        upload(cover, cover_token);
+        upload(image, image_token);
+        upload(video, video_token);
+    });
+
+
+    /*var file;
+     $("#file").on('change', function (e) {
+     if (e.target.files.length > 0) {
+     file = e.target.files[0];
+     console.log(e.target.files[0]);
+     console.log($("#image1")[0].files[0]);
+     return;
+     }
+     });
+
+     $("#form1").on('submit', function (e) {
+     e.preventDefault();
+     if (!file) {
+     alert("请选择文件");
+     return;
+     }
+     var fd = new FormData;
+     fd.append('file', file);
+     fd.append('token', $('#token').val());
+     var fengmian = new FormData;
+     var xhr = new XMLHttpRequest;
+     xhr.open('POST', 'http://up.qiniu.com', true);
+     xhr.onload = function (e) {
+     var txet = e.target.responseText;
+     var obj = jQuery.parseJSON(txet);
+     var url = $('#origin').val() + '/' + obj.key + '?imageView/1/w/100';
+     $('#image').attr('src', url);
+     };
+     xhr.upload.onprogress = function (e) {
+     if (e.lengthComputable) {
+     var p = parseInt(e.loaded * 100 / e.total);
+     $('#progress').css('width', p + "%");
+     $('#span_bar').html(p + '%');
+     }
+     };
+     xhr.send(fd);
+     });*/
+</script>
+</body>
+</html>

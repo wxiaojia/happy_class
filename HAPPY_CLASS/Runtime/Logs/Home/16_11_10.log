@@ -1,0 +1,104 @@
+[ 2016-11-10T13:06:47+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013723s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0387s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0228s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0009s ]
+
+[ 2016-11-10T13:09:05+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019473s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0247s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0007s ]
+
+[ 2016-11-10T13:09:16+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015906s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0283s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0008s ]
+
+[ 2016-11-10T13:10:28+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017669s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0265s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0008s ]
+
+[ 2016-11-10T13:10:34+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022981s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0379s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0162s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0009s ]
+
+[ 2016-11-10T13:11:08+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025469s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0333s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0009s ]
+
+[ 2016-11-10T21:54:59+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013219s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0380s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0009s ]
+
+[ 2016-11-10T21:55:36+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012972s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0299s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0007s ]
+
+[ 2016-11-10T21:55:49+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019813s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0313s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0008s ]
+
+[ 2016-11-10T22:30:31+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.024055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029844s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0783s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0179s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0014s ]
+
+[ 2016-11-10T22:35:26+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013110s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0543s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0008s ]
+
+[ 2016-11-10T22:36:27+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021793s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0292s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0008s ]
+
+[ 2016-11-10T22:36:59+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018203s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0371s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0009s ]
+

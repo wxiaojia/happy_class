@@ -1,0 +1,800 @@
+[ 2016-11-08T00:00:00+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007978s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000724s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2016-11-08T00:00:09+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007946s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008012s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000837s ]
+
+[ 2016-11-08T00:00:44+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001240s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008244s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000728s ]
+
+[ 2016-11-08T00:00:46+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007504s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2016-11-08T00:00:46+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041610s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041682s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000789s ]
+
+[ 2016-11-08T00:01:16+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006659s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006714s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2016-11-08T00:01:44+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007633s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2016-11-08T00:01:59+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009253s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009317s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2016-11-08T00:02:24+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001191s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-11-08T00:02:55+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024925s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000806s ]
+
+[ 2016-11-08T00:04:03+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001709s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006473s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006529s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-11-08T00:04:30+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007315s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007378s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2016-11-08T00:05:22+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006717s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006770s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000672s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2016-11-08T00:05:34+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006516s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006572s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2016-11-08T00:07:35+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007536s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2016-11-08T00:07:54+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001154s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007246s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000672s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000715s ]
+
+[ 2016-11-08T00:12:17+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007332s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007385s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000917s ]
+
+[ 2016-11-08T00:13:15+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006844s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2016-11-08T10:31:36+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.022031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022223s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.007951s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082084s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082237s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.016382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016475s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.019597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019689s ]
+
+[ 2016-11-08T10:31:53+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006514s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-11-08T10:31:54+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000247s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-11-08T10:51:24+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+
+[ 2016-11-08T10:51:25+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+
+[ 2016-11-08T10:51:25+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-11-08T10:51:25+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+
+[ 2016-11-08T10:52:21+08:00 ] ::1 /happy_class/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008968s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009034s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000837s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000891s ]
+
+[ 2016-11-08T14:07:05+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0024s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`) VALUES ('软件二班','123456') [ RunTime:0.0158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000801s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000844s ]
+
+[ 2016-11-08T14:08:11+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0017s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('软件二班','123456','/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:3sw3MeBqgLdF6NskoQxPhsNOU3g=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODg1NDB9','/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:3sw3MeBqgLdF6NskoQxPhsNOU3g=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODg1NDB9','/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:3sw3MeBqgLdF6NskoQxPhsNOU3g=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODg1NDB9') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000828s ]
+
+[ 2016-11-08T14:11:11+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0019s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('软件二班','123456','/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:3sw3MeBqgLdF6NskoQxPhsNOU3g=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODg1NDB9','/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:3sw3MeBqgLdF6NskoQxPhsNOU3g=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODg1NDB9','/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:3sw3MeBqgLdF6NskoQxPhsNOU3g=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODg1NDB9') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000887s ]
+
+[ 2016-11-08T14:12:10+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0018s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('软件二班','123456','/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:3sw3MeBqgLdF6NskoQxPhsNOU3g=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODg1NDB9','/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:3sw3MeBqgLdF6NskoQxPhsNOU3g=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODg1NDB9','/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:3sw3MeBqgLdF6NskoQxPhsNOU3g=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODg1NDB9') [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000794s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000837s ]
+
+[ 2016-11-08T14:12:44+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0016s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('软件二班','12345654','http://oga3de3p0.bkt.clouddn.com/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:aeimqsTGrkIe_PFSmCkj7Kvxf10=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODkxNTN9','http://oga3de3p0.bkt.clouddn.com/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:aeimqsTGrkIe_PFSmCkj7Kvxf10=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODkxNTN9','http://oga3de3p0.bkt.clouddn.com/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:aeimqsTGrkIe_PFSmCkj7Kvxf10=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODkxNTN9') [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2016-11-08T14:13:19+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001154s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0018s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('软件二班','12345654','http://oga3de3p0.bkt.clouddn.com/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:aeimqsTGrkIe_PFSmCkj7Kvxf10=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODkxNTN9','http://oga3de3p0.bkt.clouddn.com/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:aeimqsTGrkIe_PFSmCkj7Kvxf10=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODkxNTN9','http://oga3de3p0.bkt.clouddn.com/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:aeimqsTGrkIe_PFSmCkj7Kvxf10=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODkxNTN9') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2016-11-08T14:15:51+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0020s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('软件二班','fsdf','http://oga3de3p0.bkt.clouddn.com/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:zOV0O7R2OqSY0mEgv44yIAGmvxQ=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODkzMzV9','http://oga3de3p0.bkt.clouddn.com/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:zOV0O7R2OqSY0mEgv44yIAGmvxQ=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODkzMzV9','http://oga3de3p0.bkt.clouddn.com/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:zOV0O7R2OqSY0mEgv44yIAGmvxQ=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODkzMzV9') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2016-11-08T14:17:44+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0019s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('','','http://oga3de3p0.bkt.clouddn.com/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:ggBYRin68pXvI9s3WTSOetBe0eY=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODk0NTh9','http://oga3de3p0.bkt.clouddn.com/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:ggBYRin68pXvI9s3WTSOetBe0eY=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODk0NTh9','http://oga3de3p0.bkt.clouddn.com/fZx8HyHnanE-5mMVDw70p_DM5wfRilsL_ItMPW_t:ggBYRin68pXvI9s3WTSOetBe0eY=:eyJzY29wZSI6ImhhcHB5LWNsYXNzIiwiZGVhZGxpbmUiOjE0Nzg1ODk0NTh9') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000823s ]
+
+[ 2016-11-08T18:26:26+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003045s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0031s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('dgdfg','dsged','FmLpplRxhEsmt_q1nCbT4lyUOdib/','FmLpplRxhEsmt_q1nCbT4lyUOdib/','FmLpplRxhEsmt_q1nCbT4lyUOdib/') [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001370s ]
+
+[ 2016-11-08T18:36:57+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003073s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0027s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('dgdffgdf','d','FmLpplRxhEsmt_q1nCbT4lyUOdib/','FmLpplRxhEsmt_q1nCbT4lyUOdib/','FmLpplRxhEsmt_q1nCbT4lyUOdib/') [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001220s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001294s ]
+
+[ 2016-11-08T18:40:06+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002972s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0027s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('sdgdag','dfsgdsfg','http://oga3de3p0.bkt.clouddn.com/FmLpplRxhEsmt_q1nCbT4lyUOdib','http://oga3de3p0.bkt.clouddn.com/FgtXXppVedigRpgGFHouNHuXX61r','http://oga3de3p0.bkt.clouddn.com/lo_k2Bp5mxOBHrzTj5VtcDd1XheD') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001460s ]
+
+[ 2016-11-08T18:41:37+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001571s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0026s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('软件二班','123456','http://oga3de3p0.bkt.clouddn.com/FmLpplRxhEsmt_q1nCbT4lyUOdib','http://oga3de3p0.bkt.clouddn.com/FgtXXppVedigRpgGFHouNHuXX61r','http://oga3de3p0.bkt.clouddn.com/lo_k2Bp5mxOBHrzTj5VtcDd1XheD') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001153s ]
+
+[ 2016-11-08T18:52:02+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003109s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0046s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0033s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('sdvfdsav','sdfvsd','http://oga3de3p0.bkt.clouddn.com/FmLpplRxhEsmt_q1nCbT4lyUOdib','http://oga3de3p0.bkt.clouddn.com/FgtXXppVedigRpgGFHouNHuXX61r','http://oga3de3p0.bkt.clouddn.com/lo_k2Bp5mxOBHrzTj5VtcDd1XheD') [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001411s ]
+
+[ 2016-11-08T18:53:29+08:00 ] ::1 /happy_class/index.php/home/index/getClass
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc' at line 1
+ [ SQL语句 ] : SELECT * FROM `tp_class` ORDER BY desc 
+
+[ 2016-11-08T18:58:13+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002356s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0032s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0027s ]
+ERR: 1062:Duplicate entry 'http://oga3de3p0.bkt.clouddn.com/FmLpplRxhEsmt_q1nCbT4lyUOdib' for key 'image_origin'
+ [ SQL语句 ] : INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('sdgsdagasd','dsgsdasa','http://oga3de3p0.bkt.clouddn.com/FmLpplRxhEsmt_q1nCbT4lyUOdib','http://oga3de3p0.bkt.clouddn.com/FgtXXppVedigRpgGFHouNHuXX61r','http://oga3de3p0.bkt.clouddn.com/lo_k2Bp5mxOBHrzTj5VtcDd1XheD')
+ERR: 1062:Duplicate entry 'http://oga3de3p0.bkt.clouddn.com/FmLpplRxhEsmt_q1nCbT4lyUOdib' for key 'image_origin'
+ [ SQL语句 ] : INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('sdgsdagasd','dsgsdasa','http://oga3de3p0.bkt.clouddn.com/FmLpplRxhEsmt_q1nCbT4lyUOdib','http://oga3de3p0.bkt.clouddn.com/FgtXXppVedigRpgGFHouNHuXX61r','http://oga3de3p0.bkt.clouddn.com/lo_k2Bp5mxOBHrzTj5VtcDd1XheD')
+
+[ 2016-11-08T19:26:23+08:00 ] ::1 /happy_class/index.php/home/index/js/jquery-1.11.1.min.js
+ERR: 非法操作:js
+
+[ 2016-11-08T19:26:23+08:00 ] ::1 /happy_class/index.php/home/index/js/video.min.js
+ERR: 非法操作:js
+
+[ 2016-11-08T19:26:23+08:00 ] ::1 /happy_class/index.php/home/index/css/video-js.min.css
+ERR: 非法操作:css
+
+[ 2016-11-08T19:26:23+08:00 ] ::1 /happy_class/index.php/home/index/css/index.css
+ERR: 非法操作:css
+
+[ 2016-11-08T19:26:23+08:00 ] ::1 /happy_class/index.php/home/index/js/index.js
+ERR: 非法操作:js
+
+[ 2016-11-08T19:26:23+08:00 ] ::1 /happy_class/index.php/home/index/js/video.min.js
+ERR: 非法操作:js
+
+[ 2016-11-08T19:26:23+08:00 ] ::1 /happy_class/index.php/home/index/css/index.css
+ERR: 非法操作:css
+
+[ 2016-11-08T19:26:23+08:00 ] ::1 /happy_class/index.php/home/index/css/video-js.min.css
+ERR: 非法操作:css
+
+[ 2016-11-08T19:28:57+08:00 ] ::1 /happy_class/index.php/home/index/video/1.mp4
+ERR: 非法操作:video
+
+[ 2016-11-08T19:35:32+08:00 ] ::1 /happy_class/index.php/home/index/video/1.mp4
+ERR: 非法操作:video
+
+[ 2016-11-08T19:48:22+08:00 ] ::1 /happy_class/index.php/home/index/video/1.mp4
+ERR: 非法操作:video
+
+[ 2016-11-08T19:50:58+08:00 ] ::1 /happy_class/index.php/home/index/%7BU:('Home/index/getClass')%7D
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016337s ]
+ERR: 非法操作:{U:('Home
+
+[ 2016-11-08T20:42:50+08:00 ] ::1 /happy_class/index.php/home/index/%7BU:('Home/index/getClass')%7D
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020444s ]
+ERR: 非法操作:{U:('Home
+
+[ 2016-11-08T20:43:40+08:00 ] ::1 /happy_class/index.php/home/index/%7BU:('Home/index/getClass')%7D
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.024805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028830s ]
+ERR: 非法操作:{U:('Home
+
+[ 2016-11-08T20:46:25+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.038880s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0749s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0007s ]
+
+[ 2016-11-08T21:18:43+08:00 ] ::1 /happy_class/index.php/home/index/video/1.mp4
+ERR: 非法操作:video
+
+[ 2016-11-08T21:19:51+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.051119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.058028s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0295s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0010s ]
+
+[ 2016-11-08T21:23:33+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016086s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0303s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0115s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('we\'g\'fe\'q\'g','d\'ge','http://oga3de3p0.bkt.clouddn.com/FuLVPjL2qP2d8Yauqi8gp9ZjRB7l','http://oga3de3p0.bkt.clouddn.com/Fg3KJ2KrFuly_W9lv9FAkDiuYZlN','http://oga3de3p0.bkt.clouddn.com/FqlW4dtb1UMDV2oTZ0457vYhs1HS') [ RunTime:0.0837s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009174s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009575s ]
+
+[ 2016-11-08T21:23:56+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.033946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.094157s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0360s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0152s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0009s ]
+
+[ 2016-11-08T21:24:00+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019742s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0245s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0005s ]
+
+[ 2016-11-08T21:24:28+08:00 ] ::1 /happy_class/index.php/home/index/video/1.mp4
+ERR: 非法操作:video
+
+[ 2016-11-08T21:54:14+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019325s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0498s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0289s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('软件6班','fdajdf','http://oga3de3p0.bkt.clouddn.com/Fg3KJ2KrFuly_W9lv9FAkDiuYZlN','http://oga3de3p0.bkt.clouddn.com/FqlW4dtb1UMDV2oTZ0457vYhs1HS','http://oga3de3p0.bkt.clouddn.com/FneVSaXLzWv1ieAmU3PLnAAvF0n5') [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009843s ]
+
+[ 2016-11-08T21:54:21+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017639s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0346s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0187s ]
+
+[ 2016-11-08T21:56:50+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017452s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.1318s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0681s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0009s ]
+
+[ 2016-11-08T22:00:28+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012027s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0282s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0008s ]
+
+[ 2016-11-08T22:01:19+08:00 ] ::1 /happy_class/index.php/Home/index/addClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016399s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0480s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0157s ]
+SQL: INSERT INTO `tp_class` (`name`,`info`,`cover`,`image`,`video`) VALUES ('ranuj','dfjasdfj','http://oga3de3p0.bkt.clouddn.com/Fr422AZaNE5UNFJ3QMLzuK7HgTU2','http://oga3de3p0.bkt.clouddn.com/FqlW4dtb1UMDV2oTZ0457vYhs1HS','http://oga3de3p0.bkt.clouddn.com/Fvfvw11yP4_XAo6BTMHa4h6lbEyw') [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013120s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013655s ]
+
+[ 2016-11-08T22:01:41+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019176s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0306s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0009s ]
+
+[ 2016-11-08T23:20:35+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012122s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0291s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0008s ]
+
+[ 2016-11-08T23:24:05+08:00 ] ::1 /happy_class/index.php/Home/index/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012011s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0437s ]
+SQL: SHOW COLUMNS FROM `tp_class` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `tp_class`  [ RunTime:0.0008s ]
+
